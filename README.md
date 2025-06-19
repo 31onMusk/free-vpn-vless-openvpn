@@ -1,3 +1,5 @@
+[![luxvpn](https://github.com/user-attachments/assets/ed2c470d-bfbd-40e7-9a78-dfee829dbbd7)](https://t.me/TheLuxVPN_Bot)
+
 # 🌐 TheLuxVPN — Fast & Private VPN via Telegram Bot
 
 **TheLuxVPN** is a secure and user-friendly VPN service that supports **VLESS** (with REALITY) and **OpenVPN (TCP/UDP)**. Delivered instantly via Telegram bot, it’s designed for bypassing censorship, ensuring privacy, and supporting all major platforms.

@@ -27,7 +27,7 @@
 | 📅 3 Months   | 200 ⭐ + 1 Month FREE |
 | 📅 6 Months   | 390 ⭐    |
 
-> 💳 Payments via CryptoCloud: Russian Cards, USDT, and more.
+> 💳 Payments via Telegrram Stars ⭐
 
 ---
 
